@@ -4,7 +4,7 @@ exports = module.exports = {
   server: {
     secure: false, // ws
     port: 8000,
-    host: 'https://garawaa.herokuapp.com/'
+    host: 'https://pokerpocket.herokuapp.com/'
   },
   sequelize: {
     logging: false,
