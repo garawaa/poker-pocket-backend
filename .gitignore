@@ -1,3 +1,5 @@
+*.nc
+*.DS_store
 # Poker Pocket files
 /app/HandRanks.dat
 
